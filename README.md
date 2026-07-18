@@ -8,15 +8,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-D946EF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samarth-kanade19/)
 [![Gmail](https://img.shields.io/badge/Gmail-EC4899?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samarthkanade983@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=samarthkanade983-collab&color=a855f7&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/samarthkanade983-collab)
 
 <br/>
-
-<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fsamarthkanade983-collab&label=REPOS&query=%24.public_repos&color=c084fc&style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fsamarthkanade983-collab&label=FOLLOWERS&query=%24.followers&color=ec4899&style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fsamarthkanade983-collab&label=FOLLOWING&query=%24.following&color=d946ef&style=for-the-badge&logo=github&logoColor=white"/>
-
-<br/><br/>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="500">
 
@@ -164,13 +157,15 @@ Role-based, secure dashboard for property listing, tenant communication & financ
 
 </div>
 
+> 💡 If any stat card looks empty right after pushing, give it 10–20 seconds and refresh — these generate live from your GitHub activity on first load.
+
 ---
 
 ### 📈 Contribution Chart
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=samarthkanade983-collab&theme=react-dark&hide_border=true&area=true&color=d946ef&line=ec4899&point=ffffff&bg_color=0d0d17)
+<img src="https://ghchart.rshah.org/D946EF/samarthkanade983-collab" alt="Samarth's GitHub contribution grid" width="100%"/>
 
 </div>
 
