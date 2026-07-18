@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Samarth%20Kanade&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Data%20Science%20Graduate%20%7C%20Machine%20Learning%20%7C%20LLMs&descAlignY=58&descSize=18"/>
+# Hi 👋, I'm Samarth Kanade
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&lines=Artificial+Intelligence+%26+Data+Science+Graduate;Machine+Learning+%7C+Deep+Learning+%7C+NLP;Turning+Raw+Data+into+Real+Decisions;Always+Learning%2C+Always+Building+%F0%9F%9A%80" alt="Typing SVG" />
 
@@ -9,6 +9,10 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samarth-kanade19/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samarthkanade983@gmail.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=samarthkanade983-collab&color=2E9EF7&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/samarthkanade983-collab)
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="500">
 
 </div>
 
@@ -27,16 +31,55 @@ currently_exploring: LLM-powered applications & real-world AI systems
 ```
 
 - 🎓 Graduated **B.E. in Artificial Intelligence & Data Science** — University of Mumbai
-- 🏅 Certified in **Data Science with AI** (Net-Tech India), **AWS AI Practitioner** (Udemy), **Google Prompting Essentials** (Coursera)
 - 💡 Passionate about solving real-world problems through data-driven technology
 - 🔭 Currently exploring **Machine Learning, Deep Learning & LLM-powered applications**
 - 🌱 Always learning — one dataset, one model, one project at a time
+- ⚡ Fun fact: I keep rhythm both in code and on the drums 🥁
+
+---
+
+### 🎓 Journey So Far
+
+```mermaid
+timeline
+    title Academic & Career Milestones
+    2022 : Started B.E. in AI & Data Science
+         : Konkan Gyanpeeth College of Engineering
+    2024 : Organized Swar Tarang
+         : Inter-College Cultural Event
+    2025 : Data Science with AI Certification
+         : Net-Tech India
+         : AWS AI Practitioner
+         : Udemy
+    2026 : Graduated B.E. AI & Data Science
+         : University of Mumbai
+         : Google Prompting Essentials
+         : Coursera
+```
+
+---
+
+### 🏅 Certifications
+
+<div align="center">
+
+| Certification | Provider |
+|---|---|
+| 🧬 Data Science with AI | Net-Tech India, Thane |
+| ☁️ AWS AI Practitioner | Udemy |
+| ✨ Google Prompting Essentials | Coursera |
+
+</div>
 
 ---
 
 ### 🛠️ Tech Stack
 
 <div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,mysql,mongodb,tensorflow,pytorch,sklearn,flask,git,tableau,powerbi&theme=dark" />
+
+<br/><br/>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -62,24 +105,33 @@ currently_exploring: LLM-powered applications & real-world AI systems
 
 ### 🚀 Featured Projects
 
-<table align="center">
+<table align="center" width="100%">
 <tr>
-<td width="33%">
+<td width="33%" valign="top">
 
 **🩺 AI Medical Report Summarizer**
+
 Hybrid pipeline (GMM, Naïve Bayes + Google Gemini API) delivering context-aware summaries of medical reports.
 
+`Python` `Gemini API` `ML`
+
 </td>
-<td width="33%">
+<td width="33%" valign="top">
 
 **🔗 Link-Sniff**
+
 Flask-based security tool that extracts and analyzes URLs from PDFs to detect phishing in real time.
 
+`Flask` `Security` `PDF Parsing`
+
 </td>
-<td width="33%">
+<td width="33%" valign="top">
 
 **🏠 Real Estate Management Portal**
+
 Role-based, secure dashboard for property listing, tenant communication & financial tracking.
+
+`Full-Stack` `RDBMS` `Dashboard`
 
 </td>
 </tr>
@@ -93,6 +145,10 @@ Role-based, secure dashboard for property listing, tenant communication & financ
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=samarthkanade983-collab&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samarthkanade983-collab&layout=compact&theme=tokyonight&hide_border=true" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=samarthkanade983-collab&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -127,6 +183,8 @@ Led planning, coordination, and execution of a large-scale cultural event.
 
 🥁 Professional Musician (Percussion & Vocals) &nbsp;|&nbsp; 🎨 Drawing & Painting Enthusiast
 
+<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="90">
+
 </div>
 
 ---
@@ -138,6 +196,10 @@ Led planning, coordination, and execution of a large-scale cultural event.
 [![LinkedIn](https://img.shields.io/badge/-Samarth%20Kanade-0A66C2?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/samarth-kanade19/)
 [![Gmail](https://img.shields.io/badge/-samarthkanade983%40gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:samarthkanade983@gmail.com)
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+<br/>
+
+*"Turning data into decisions, one model at a time."*
 
 </div>
+
+
