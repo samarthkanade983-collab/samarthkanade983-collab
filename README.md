@@ -142,22 +142,9 @@ Role-based, secure dashboard for property listing, tenant communication & financ
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=samarthkanade983-collab&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d0d17&title_color=ec4899&icon_color=d946ef&text_color=e2d9f3" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samarthkanade983-collab&layout=compact&theme=radical&hide_border=true&bg_color=0d0d17&title_color=ec4899&text_color=e2d9f3" />
-
-<br/>
-
 <img src="https://streak-stats.demolab.com/?user=samarthkanade983-collab&theme=radical&hide_border=true&background=0D0D17&ring=D946EF&fire=EC4899&currStreakLabel=D946EF" />
 
 </div>
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=samarthkanade983-collab&theme=radical&no-frame=true&row=1&column=6&margin-w=8)
-
-</div>
-
-> 💡 If any stat card looks empty right after pushing, give it 10–20 seconds and refresh — these generate live from your GitHub activity on first load.
 
 ---
 
@@ -165,7 +152,7 @@ Role-based, secure dashboard for property listing, tenant communication & financ
 
 <div align="center">
 
-<img src="https://ghchart.rshah.org/D946EF/samarthkanade983-collab" alt="Samarth's GitHub contribution grid" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=samarthkanade983-collab&theme=react-dark&hide_border=true&area=true&color=d946ef&line=ec4899&point=ffffff&bg_color=0d0d17" width="100%"/>
 
 </div>
 
@@ -202,4 +189,3 @@ Led planning, coordination, and execution of a large-scale cultural event.
 *"Turning data into decisions, one model at a time."*
 
 </div>
-
