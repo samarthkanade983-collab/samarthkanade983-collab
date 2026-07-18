@@ -163,9 +163,11 @@ Role-based, secure dashboard for property listing, tenant communication & financ
 
 <div align="center">
 
+<table><tr><td bgcolor="#000000" align="center">
 <img src="https://ghchart.rshah.org/D946EF/samarthkanade983-collab" alt="Samarth's GitHub contribution grid" width="100%"/>
+</td></tr></table>
 
-<br/><br/>
+<br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=samarthkanade983-collab&theme=react-dark&hide_border=true&area=true&color=d946ef&line=ec4899&point=ffffff&bg_color=0d0d17" width="100%"/>
 
@@ -175,33 +177,5 @@ Role-based, secure dashboard for property listing, tenant communication & financ
 
 ### 🎯 Position of Responsibility
 
-**Organizer — Swar Tarang** (Inter-College Cultural Event, 2024–2025)
-Led planning, coordination, and execution of a large-scale cultural event.
-
----
-
-### 🎨 Beyond Code
-
-<div align="center">
-
-🥁 Professional Musician (Percussion & Vocals) &nbsp;|&nbsp; 🎨 Drawing & Painting Enthusiast
-
-<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="90">
-
-</div>
-
----
-
-<div align="center">
-
-### 📫 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/-Samarth%20Kanade-D946EF?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/samarth-kanade19/)
-[![Gmail](https://img.shields.io/badge/-samarthkanade983%40gmail.com-EC4899?style=flat-square&logo=Gmail&logoColor=white)](mailto:samarthkanade983@gmail.com)
-
-<br/>
-
-*"Turning data into decisions, one model at a time."*
-
-</div>
+**Organizer — Swar Tarang**
 
