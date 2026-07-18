@@ -85,17 +85,6 @@ Role-based, secure dashboard for property listing, tenant communication & financ
 </tr>
 </table>
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=samarthkanade983-collab&repo=AI-Medical-Report-Summarizer&theme=tokyonight&hide_border=true" />
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=samarthkanade983-collab&repo=Link-Sniff&theme=tokyonight&hide_border=true" />
-<br/>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=samarthkanade983-collab&repo=Real-Estate-Management-Portal&theme=tokyonight&hide_border=true" />
-
-</div>
-
-> ⚠️ Replace the `repo=` values above with your **exact** GitHub repository names, or these cards will show as broken.
-
 ---
 
 ### 📊 GitHub Stats
@@ -109,33 +98,19 @@ Role-based, secure dashboard for property listing, tenant communication & financ
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=samarthkanade983-collab&theme=tokyonight&hide_border=true" />
-
-</div>
-
-<div align="center">
-
 ![Trophies](https://github-profile-trophy.vercel.app/?username=samarthkanade983-collab&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8)
 
 </div>
 
 ---
 
-### 📈 Contribution Graph
+### 📈 Contribution Chart
 
 <div align="center">
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=samarthkanade983-collab&theme=tokyo-night&hide_border=true&area=true)
 
 </div>
-
-<div align="center">
-
-![GitHub Contribution Snake](https://raw.githubusercontent.com/samarthkanade983-collab/samarthkanade983-collab/output/github-contribution-grid-snake.svg)
-
-</div>
-
-> 🐍 **Snake animation setup:** this needs a one-time GitHub Actions workflow to generate. Ask me and I'll walk you through adding it (`Platane/snk` action) — takes 2 minutes.
 
 ---
 
