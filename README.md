@@ -142,18 +142,7 @@ Role-based, secure dashboard for property listing, tenant communication & financ
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=samarthkanade983-collab&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d0d17&title_color=ec4899&icon_color=d946ef&text_color=e2d9f3" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samarthkanade983-collab&layout=compact&theme=radical&hide_border=true&bg_color=0d0d17&title_color=ec4899&text_color=e2d9f3" />
-
-<br/>
-
 <img src="https://streak-stats.demolab.com/?user=samarthkanade983-collab&theme=radical&hide_border=true&background=0D0D17&ring=D946EF&fire=EC4899&currStreakLabel=D946EF" />
-
-</div>
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=samarthkanade983-collab&theme=radical&no-frame=true&row=1&column=6&margin-w=8)
 
 </div>
 
@@ -177,5 +166,32 @@ Role-based, secure dashboard for property listing, tenant communication & financ
 
 ### 🎯 Position of Responsibility
 
-**Organizer — Swar Tarang**
+**Organizer — Swar Tarang** (Inter-College Cultural Event, 2024–2025)
+Led planning, coordination, and execution of a large-scale cultural event.
 
+---
+
+### 🎨 Beyond Code
+
+<div align="center">
+
+🥁 Professional Musician (Percussion & Vocals) &nbsp;|&nbsp; 🎨 Drawing & Painting Enthusiast
+
+<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="90">
+
+</div>
+
+---
+
+<div align="center">
+
+### 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/-Samarth%20Kanade-D946EF?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/samarth-kanade19/)
+[![Gmail](https://img.shields.io/badge/-samarthkanade983%40gmail.com-EC4899?style=flat-square&logo=Gmail&logoColor=white)](mailto:samarthkanade983@gmail.com)
+
+<br/>
+
+*"Turning data into decisions, one model at a time."*
+
+</div>
